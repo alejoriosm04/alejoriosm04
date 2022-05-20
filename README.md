@@ -7,9 +7,9 @@
 
 <h2>About me</h2>
 
-I am Alejandro Ríos, from Medellin, Colombia. Currently studying at EAFIT University. Also, learning on Platzi about different technologies in the world of programming. I enjoy doing different things in my process of learning with the aim of developing big things and being part of different groups of collaboration.
+I am Alejandro Ríos, from Medellin, Colombia. Currently studying at EAFIT University. Also, learning on Platzi about different technologies in the world of programming. I enjoy doing different things in my process of learning with the aim of developing big things and being part of different groups of collaboration. I want to learn about the experiences of my partners to grow as a person.
 
-⚡ Fun fact: I love soccer. I want to learn about the experiences of my partners to grow as a person
+⚡ Fun fact: I love to play and watch soccer. I am a huge fan of Atletico Nacional.
 
 💬 If you have any doubt, let me know. I will be happy to hear you :)
 
