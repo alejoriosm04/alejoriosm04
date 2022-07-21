@@ -26,6 +26,7 @@ I am Alejandro Ríos, from Medellin, Colombia 🇨🇴. Currently studying Softw
   <img src='https://i.imgur.com/uow0KiB.png' height='45px'/>
   <img src='https://i.imgur.com/fJrmIow.png' height='45px'/>
   <img src='https://i.imgur.com/CPDOg0q.png' height='45px'/>
+  <img src='https://i.imgur.com/htLxfqO.png' height='45px'/>
 </p>
 <hr>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejoriosm04&hide=css,assembly,scilab,less&langs_count=10&show_icons=true&theme=prussian&layout=compact&hide_border=true&count_private=true">
