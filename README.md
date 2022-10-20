@@ -8,12 +8,15 @@
 
 - Hobbies include soccer (huge fan of [_Atlético Nacional_](https://en.wikipedia.org/wiki/Atl%C3%A9tico_Nacional) and am also interested in aviation and astronomy (see my [Twitter](https://twitter.com/alejoriosm04))
 
-- I speak Spanish (native), English (PROFICIENCY LEVEL), and just started learning German 🇩🇪
+- I speak Spanish (native), English (Proficiency Level - B2 Upper), and just started learning German 🇩🇪
+
+- NOVA EAFIT Student Group member and [Nodo Bootcamp](https://www.instagram.com/nodo.eafit/) content creator.
 
 ## 🛠 Tech Stack
 
 <div align="center">
   <img src='https://i.imgur.com/gVTO8ZP.png' height='45px'/>
+  <img src='https://i.imgur.com/pB92miD.png' height='45px'/>
   <img src='https://i.imgur.com/htLxfqO.png' height='45px'/>
   <img src='https://i.imgur.com/wbTg8xd.png' height='45px'/>
   <img src='https://i.imgur.com/7hdX1jD.png' height='45px'/>
@@ -42,3 +45,7 @@
 - [A weather data frame (Java)](https://github.com/alejoriosm04/weather-dataframe) (University)
 
 - [An app prototype for SMEs-focused networking  (Java)](https://github.com/alejoriosm04/growlocal-project) (University)
+
+- [A script that tests the behavior of linked lists in Python created for the course Data Structures and Algorithms I](https://github.com/alejoriosm04/linked-list-script) (Personal)
+
+- A[n implementation of a polish notation (PN) calculator in C++](https://github.com/alejoriosm04/polish-notation-calculator) (University)
