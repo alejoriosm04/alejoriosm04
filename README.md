@@ -46,6 +46,6 @@
 
 - [An app prototype for SMEs-focused networking  (Java)](https://github.com/alejoriosm04/growlocal-project) (University)
 
-- [A script that tests the behavior of linked lists in Python created for the course Data Structures and Algorithms I](https://github.com/alejoriosm04/linked-list-script) (Personal)
+- [A script that tests the behavior of linked lists in Python created for the course Data Structures and Algorithms I (Python)](https://github.com/alejoriosm04/linked-list-script) (Personal)
 
-- A[n implementation of a polish notation (PN) calculator in C++](https://github.com/alejoriosm04/polish-notation-calculator) (University)
+- [An implementation of a polish notation (PN) calculator (C++)](https://github.com/alejoriosm04/polish-notation-calculator) (University)
