@@ -4,15 +4,24 @@
 
 - I live in [Medellín, Colombia](https://en.wikipedia.org/wiki/Medell%C3%ADn) 🇨🇴
 
-- Currently majoring in Computer Science @EAFIT
+- Currently majoring in Computer Science **@EAFIT** 🎓.
 
-- Hobbies include soccer (huge fan of [_Atlético Nacional_](https://en.wikipedia.org/wiki/Atl%C3%A9tico_Nacional) and am also interested in aviation and astronomy (see my [Twitter](https://twitter.com/alejoriosm04))
+### Hobbies ⚽
+- **Huge soccer fan** of [_Atlético Nacional_](https://en.wikipedia.org/wiki/Atl%C3%A9tico_Nacional).
+- I'm amused by **astronomy**.
+- I'm passionate about everything related to **aviation**.
 
-- I speak Spanish (native), English (Proficiency Level - B2 Upper), and just started learning German 🇩🇪
 
-- NOVA EAFIT Student Group member and [Nodo Bootcamp](https://www.instagram.com/nodo.eafit/) content creator.
+### Languages 🌎
+- Spanish (Native Speaker).
+- English (B2 - Upper Intermediate).
+- German (Newbie, currently learning it).
 
-## 🛠 Tech Stack
+### Currently working on 💪🏻
+- **NOVA EAFIT** Student Group member.
+- [**Nodo Bootcamp**](https://www.instagram.com/nodo.eafit/) content creator.
+
+## Tech Stack 🛠
 
 <div align="center">
   <img src='https://i.imgur.com/gVTO8ZP.png' height='45px'/>
@@ -27,7 +36,7 @@
 
 ---
 
-## Code Stats
+## Code Stats 💻
 
 <img 
     style="display: block; 
@@ -38,14 +47,14 @@
 
 ---
 
-## Things I've Done
+## Projects I've made ⚙️
 
-- [A simple password generator (Python)](https://github.com/alejoriosm04/py-password-generator) (Personal)
+- [A simple password generator (Python)](https://github.com/alejoriosm04/py-password-generator) (Personal).
 
-- [A weather data frame (Java)](https://github.com/alejoriosm04/weather-dataframe) (University)
+- [A weather data frame (Java)](https://github.com/alejoriosm04/weather-dataframe) (University).
 
-- [An app prototype for SMEs-focused networking  (Java)](https://github.com/alejoriosm04/growlocal-project) (University)
+- [An app prototype for SMEs-focused networking  (Java)](https://github.com/alejoriosm04/growlocal-project) (University).
 
-- [A script that tests the behavior of linked lists in Python created for the course Data Structures and Algorithms I (Python)](https://github.com/alejoriosm04/linked-list-script) (Personal)
+- [A script that tests the behavior of linked lists in Python created for the course Data Structures and Algorithms I (Python)](https://github.com/alejoriosm04/linked-list-script) (Personal).
 
-- [An implementation of a polish notation (PN) calculator (C++)](https://github.com/alejoriosm04/polish-notation-calculator) (University)
+- [An implementation of a polish notation (PN) calculator (C++)](https://github.com/alejoriosm04/polish-notation-calculator) (University).
