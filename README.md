@@ -58,3 +58,5 @@
 - [A script that tests the behavior of linked lists in Python created for the course Data Structures and Algorithms I (Python)](https://github.com/alejoriosm04/linked-list-script) (Personal).
 
 - [An implementation of a polish notation (PN) calculator (C++)](https://github.com/alejoriosm04/polish-notation-calculator) (University).
+
+- [A script that tests the behavior of a binary tree in Python created for the course Data Structures and Algorithms I (Python)](https://gist.github.com/alejoriosm04/ef48645780ea085666498b0b666822c7) (Personal).
