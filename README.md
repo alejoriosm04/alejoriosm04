@@ -18,7 +18,7 @@
 - German (Newbie, currently learning it).
 
 ### Currently working on 💪🏻
-- **NOVA EAFIT** Student Group member.
+- [**NOVA EAFIT**](https://www.instagram.com/novaeafit/) Student Group member.
 - [**Nodo Bootcamp**](https://www.instagram.com/nodo.eafit/) content creator.
 
 ## Tech Stack 🛠
@@ -43,7 +43,7 @@
            margin-left: auto;
            margin-right: auto;
            width: 50%;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejoriosm04&hide=css,assembly,scilab,less&langs_count=10&show_icons=true&theme=prussian&layout=compact&hide_border=true&count_private=true" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejoriosm04&hide=css,assembly,scilab,less&langs_count=10&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&count_private=true" />
 
 ---
 
