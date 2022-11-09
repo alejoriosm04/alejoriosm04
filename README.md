@@ -49,7 +49,7 @@
 
 ## Projects I've made ⚙️
 
-- [A research of an algorithm able to prevent the street harassment in Medellin combining distance and harassment risk (Python)](https://github.com/alejoriosm04/ST0245) (University).
+- [A research of an algorithm able to prevent the street harassment in Medellin with Dijkstra (Python)](https://github.com/alejoriosm04/ST0245) (University).
 
 - [A weather data frame (Java)](https://github.com/alejoriosm04/weather-dataframe) (University).
 
