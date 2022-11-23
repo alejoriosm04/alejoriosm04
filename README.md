@@ -1,25 +1,25 @@
 <h2 align=center> Hi! I'm Alejandro Ríos <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30" /> </h2>
 
-## Who Am I?
+## About me
 
 - I live in [Medellín, Colombia](https://en.wikipedia.org/wiki/Medell%C3%ADn) 🇨🇴
 
-- Currently majoring in Computer Science **@EAFIT** 🎓.
+- Currently majoring in Computer Science **@EAFIT** 🎓
+
+### Currently working on 💪🏻
+- [**NOVA EAFIT**](https://www.instagram.com/novaeafit/) Student Group member.
+- [**Nodo Bootcamp**](https://www.instagram.com/nodo.eafit/) content creator.
 
 ### Hobbies ⚽
 - **Huge soccer fan** of [_Atlético Nacional_](https://en.wikipedia.org/wiki/Atl%C3%A9tico_Nacional).
 - I'm amused by **astronomy**.
 - I'm passionate about everything related to **aviation**.
 
-
 ### Languages 🌎
 - Spanish (Native Speaker).
 - English (B2 - Upper Intermediate).
 - German (Newbie, currently learning it).
 
-### Currently working on 💪🏻
-- [**NOVA EAFIT**](https://www.instagram.com/novaeafit/) Student Group member.
-- [**Nodo Bootcamp**](https://www.instagram.com/nodo.eafit/) content creator.
 
 ## Tech Stack 🛠
 
@@ -46,19 +46,3 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejoriosm04&hide=css,assembly,scilab,less&langs_count=10&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&count_private=true" />
 
 ---
-
-## Projects I've made ⚙️
-
-- [A research of an algorithm able to prevent the street harassment in Medellin with Dijkstra (Python)](https://github.com/alejoriosm04/ST0245) (University).
-
-- [A GUI user form that uses Regex to validate the user inputs (Python)](https://github.com/alejoriosm04/regex-validate-gui-userform) (University).
-
-- [A weather data frame (Java)](https://github.com/alejoriosm04/weather-dataframe) (University).
-
-- [An app prototype for SMEs-focused networking  (Java)](https://github.com/alejoriosm04/growlocal-project) (University).
-
-- [A script that tests the behavior of linked lists in Python created for the course Data Structures and Algorithms I (Python)](https://github.com/alejoriosm04/linked-list-script) (Personal).
-
-- [An implementation of a polish notation (PN) calculator (C++)](https://github.com/alejoriosm04/polish-notation-calculator) (University).
-
-- [A script that tests the behavior of a binary tree in Python created for the course Data Structures and Algorithms I (Python)](https://gist.github.com/alejoriosm04/ef48645780ea085666498b0b666822c7) (Personal).
