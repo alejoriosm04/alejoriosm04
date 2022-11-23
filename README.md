@@ -51,6 +51,8 @@
 
 - [A research of an algorithm able to prevent the street harassment in Medellin with Dijkstra (Python)](https://github.com/alejoriosm04/ST0245) (University).
 
+- [A GUI user form that uses Regex to validate the user inputs (Python)](https://github.com/alejoriosm04/regex-validate-gui-userform) (University).
+
 - [A weather data frame (Java)](https://github.com/alejoriosm04/weather-dataframe) (University).
 
 - [An app prototype for SMEs-focused networking  (Java)](https://github.com/alejoriosm04/growlocal-project) (University).
