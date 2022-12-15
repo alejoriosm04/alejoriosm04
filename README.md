@@ -5,13 +5,15 @@
 - I live in [Medellín, Colombia](https://en.wikipedia.org/wiki/Medell%C3%ADn) 🇨🇴
 
 - Currently majoring in Computer Science **@EAFIT** 🎓
+- My [LinkedIn Profile](https://www.linkedin.com/in/alejandro-r%C3%ADos-mu%C3%B1oz-1071ab257/). 
 
 ### Currently working on 💪🏻
 - [**NOVA EAFIT**](https://www.instagram.com/novaeafit/) Student Group member.
 - [**Nodo Bootcamp**](https://www.instagram.com/nodo.eafit/) content creator.
 
 ### Hobbies ⚽
-- **Huge soccer fan** of [_Atlético Nacional_](https://en.wikipedia.org/wiki/Atl%C3%A9tico_Nacional).
+- I love play **football** and **voleyball**.
+- **Huge football fan** of [_Atlético Nacional_](https://en.wikipedia.org/wiki/Atl%C3%A9tico_Nacional).
 - I'm amused by **astronomy**.
 - I'm passionate about everything related to **aviation**.
 
