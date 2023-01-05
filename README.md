@@ -25,16 +25,11 @@
 
 ## Tech Stack 🛠
 
-<div align="center">
-  <img src='https://i.imgur.com/gVTO8ZP.png' height='45px'/>
-  <img src='https://i.imgur.com/pB92miD.png' height='45px'/>
-  <img src='https://i.imgur.com/htLxfqO.png' height='45px'/>
-  <img src='https://i.imgur.com/wbTg8xd.png' height='45px'/>
-  <img src='https://i.imgur.com/7hdX1jD.png' height='45px'/>
-  <img src='https://i.imgur.com/uow0KiB.png' height='45px'/>
-  <img src='https://i.imgur.com/fJrmIow.png' height='45px'/>
-  <img src='https://i.imgur.com/CPDOg0q.png' height='45px'/>
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,bash,cpp,java,python,html,css,vue,xd" />
+  </a>
+</p>
 
 ---
 
@@ -45,6 +40,6 @@
            margin-left: auto;
            margin-right: auto;
            width: 50%;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejoriosm04&hide=css,assembly,scilab,less&langs_count=10&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&count_private=true" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejoriosm04&hide=css,assembly,scilab,less&langs_count=10&show_icons=true&theme=nord&layout=compact&hide_border=true&count_private=true" />
 
 ---
