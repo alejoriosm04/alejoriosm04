@@ -40,6 +40,6 @@
            margin-left: auto;
            margin-right: auto;
            width: 50%;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejoriosm04&hide=css,assembly,scilab,less&langs_count=10&show_icons=true&theme=nord&layout=compact&hide_border=true&count_private=true" />
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alejoriosm04&hide=html&langs_count=10&show_icons=true&theme=nord&layout=compact&hide_border=true&count_private=true" />
 
 ---
