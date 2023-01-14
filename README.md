@@ -8,7 +8,8 @@
 - My [LinkedIn Profile](https://www.linkedin.com/in/alejandro-r%C3%ADos-mu%C3%B1oz-1071ab257/). 
 
 ### Currently working on 💪🏻
-- [**NOVA EAFIT**](https://www.instagram.com/novaeafit/) Student Group member.
+
+- Member of Communities at [**NOVA EAFIT Student Group**](https://www.instagram.com/novaeafit/).
 - [**Nodo Bootcamp**](https://www.instagram.com/nodo.eafit/) content creator.
 
 ### Hobbies ⚽
