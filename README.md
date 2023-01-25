@@ -11,6 +11,7 @@
 
 - Member of Communities at [**NOVA EAFIT Student Group**](https://www.instagram.com/novaeafit/).
 - [**Nodo Bootcamp**](https://www.instagram.com/nodo.eafit/) content creator.
+- [**Whereafit**](https://whereafit.vercel.app/) developer and co-creator.
 
 ### Hobbies ⚽
 - I love play **football** and **voleyball**.
