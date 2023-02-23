@@ -4,13 +4,13 @@
 
 - I live in [Medellín, Colombia](https://en.wikipedia.org/wiki/Medell%C3%ADn) 🇨🇴
 
-- Currently majoring in Computer Science **@EAFIT** 🎓
-- My [LinkedIn Profile](https://www.linkedin.com/in/alejandro-r%C3%ADos-mu%C3%B1oz-1071ab257/). 
+- Currently majoring in Computer Science **@EAFIT** 🎓 
+- Member of [I.T Team](https://github.com/gruponovaeafit) and [Nodo Bootcamp Team](https://www.instagram.com/nodo.eafit/) at [**Communities (NOVA EAFIT)**](https://www.instagram.com/novaeafit/) 🚀💜
 
 ### Currently working on 💪🏻
 
-- Member of Communities at [**NOVA EAFIT Student Group**](https://www.instagram.com/novaeafit/).
-- [**Nodo Bootcamp**](https://www.instagram.com/nodo.eafit/) content creator.
+- Jr. Software Developer at [**NOVA EAFIT Student Group**](https://www.instagram.com/novaeafit/) 🚀💜
+- Computational Thinking Teacher Assistant at EAFIT University.
 - [**Whereafit**](https://whereafit.vercel.app/) developer and co-creator.
 
 ### Hobbies ⚽
