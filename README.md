@@ -5,7 +5,7 @@
 - I live in [Medellín, Colombia](https://en.wikipedia.org/wiki/Medell%C3%ADn) 🇨🇴
 
 - Currently majoring in Computer Science **@EAFIT** 🎓 
-- Member of [I.T Team](https://github.com/gruponovaeafit) and [Nodo Bootcamp Team](https://www.instagram.com/nodo.eafit/) at [**Communities (NOVA EAFIT)**](https://www.instagram.com/novaeafit/) 🚀💜
+- Member of [I.T Team](https://github.com/gruponovaeafit) and Leader of [Nodo Bootcamp Team](https://www.instagram.com/nodo.eafit/) at [**Communities (NOVA EAFIT)**](https://www.instagram.com/novaeafit/) 🚀💜
 
 ### Currently working on 💪🏻
 
