@@ -3,13 +3,14 @@
 ## About me
 
 - I live in [Medellín, Colombia](https://en.wikipedia.org/wiki/Medell%C3%ADn) 🇨🇴
-
+- I'm a **Data Science** and **Software Development** enthusiast.
+- Frontend Student at [NODO EAFIT](https://www.instagram.com/nodo.eafit/)
 - Currently majoring in Computer Science **@EAFIT** 🎓 
-- Member of [I.T Team](https://github.com/gruponovaeafit) and Leader of [Nodo Bootcamp Team](https://www.instagram.com/nodo.eafit/) at [**Communities (NOVA EAFIT)**](https://www.instagram.com/novaeafit/) 🚀💜
+
 
 ### Currently working on 💪🏻
 
-- Jr. Software Developer at [**NOVA EAFIT Student Group**](https://www.instagram.com/novaeafit/) 🚀💜
+-  Director of the [**NODO Alliance**](https://www.instagram.com/nodo.eafit/) and Data Analyst in the [**IT Department**](https://github.com/gruponovaeafit) at NOVA EAFIT 🚀💜
 - Computational Thinking Teacher Assistant at EAFIT University.
 - [**Whereafit**](https://whereafit.vercel.app/) developer and co-creator.
 
@@ -29,7 +30,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,bash,cpp,java,python,html,css,vue,xd" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,bash,cpp,java,python,django,html,css,vue,xd" />
   </a>
 </p>
 
