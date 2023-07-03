@@ -4,8 +4,8 @@
 
 - I live in [Medellín, Colombia](https://en.wikipedia.org/wiki/Medell%C3%ADn) 🇨🇴
 - I'm a **Data Science** and **Software Development** enthusiast.
-- Frontend Student at [NODO EAFIT](https://www.instagram.com/nodo.eafit/)
 - Currently majoring in Computer Science **@EAFIT** 🎓 
+- Frontend Student at [NODO EAFIT](https://www.instagram.com/nodo.eafit/)
 
 
 ### Currently working on 💪🏻
