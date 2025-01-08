@@ -3,7 +3,7 @@
 ## About me
 
 - I live in [Medellín, Colombia](https://en.wikipedia.org/wiki/Medell%C3%ADn) 🇨🇴
-- I'm a **Data Science** and **Software Development** enthusiast. Check out some of my projects on my profile!
+- I'm a **Software Development** and **Data Science** enthusiast. Check out some of my projects on my profile!
 - Currently majoring in Computer Science **@EAFIT** 🎓 
 - I love learning new technologies and tools. I have a dedicated space on [Notion](https://alejoriosm04.notion.site/Programming-Space-b92f7efa4d4e4234816da1a58577616e?pvs=4) where I share my notes and learning path.
 - I'm passionate about making technology and innovation more inclusive for all areas of knowledge.
@@ -11,7 +11,8 @@
 
 ### Currently working on 💪🏻
 
--  **Board Member** and **Communities Department Director** at [NOVA EAFIT](https://github.com/gruponovaeafit).
+- **Software Developer** in the Densurbam platform at EAFIT University's Urbam area.
+- **Honorary Member** at [NOVA EAFIT](https://github.com/gruponovaeafit). A group where we make technology and innovation, a more inclusive space for all areas of knowledge.
 - **Teacher Assistant** in various programming, data structures, and algorithms courses at EAFIT University.
 
 ### Hobbies ⚽
@@ -31,7 +32,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,bash,cpp,java,python,django,flask,azure" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vue,java,python,django,flask,fastapi,azure" />
   </a>
 </p>
 
